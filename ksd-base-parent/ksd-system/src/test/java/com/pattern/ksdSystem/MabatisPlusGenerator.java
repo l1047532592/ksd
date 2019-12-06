@@ -1,4 +1,4 @@
-package com.pattren.ksdsystem;
+package com.pattern.ksdSystem;
 
 
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
@@ -17,7 +17,7 @@ public class MabatisPlusGenerator {
     //项目模块
 //    private static String moduleName = "com-example-demo";
     //基本包名
-    private static String basePackage = "com.example.demo";
+    private static String basePackage = "com.pattern.ksdSystem";
     //作者
     private static String authorName = "lfl";
     //要生成的表名
@@ -25,13 +25,13 @@ public class MabatisPlusGenerator {
     //table前缀
     private static String prefix = "sx";
     //mapper 文件路径
-    private static String mapperPreFile = "com/example/demo/mapper";
+    private static String mapperPreFile = "com/pattern/demo/mapper";
     //service类的名称，默认会带I,所以自定义
     private static String serviceName = "XmlElementService";
 
     //数据库配置四要素
     private static String driverName = "com.mysql.cj.jdbc.Driver";
-    private static String url = "jdbc:mysql://localhost:3306/xccmbs?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false";
+    private static String url = "jdbc:mysql://localhost:3306/authority_managerment?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false";
     private static String username = "root";
     private static String password = "960422";
 
@@ -108,7 +108,7 @@ public class MabatisPlusGenerator {
         StrategyConfig strategy = new StrategyConfig();
         strategy.setNaming(NamingStrategy.underline_to_camel);
         strategy.setColumnNaming(NamingStrategy.underline_to_camel);
-        strategy.setSuperEntityClass("com.example.demo.entity.BasePlusEntity");
+        strategy.setSuperEntityClass("com.pattern.ksdSystem.entity.BasePlusEntity");
         strategy.setEntityLombokModel(true);
         //设置entity--TableField属性
         strategy.setEntityTableFieldAnnotationEnable(true);

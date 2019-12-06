@@ -1,4 +1,4 @@
-package com.pattren.ksdsystem.entity;
+package com.pattern.ksdSystem.entity;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import com.baomidou.mybatisplus.annotation.FieldFill;
