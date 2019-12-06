@@ -7,6 +7,7 @@ import com.baomidou.mybatisplus.annotation.TableLogic;
 import com.baomidou.mybatisplus.extension.activerecord.Model;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import java.io.Serializable;
@@ -18,6 +19,7 @@ import java.util.Date;
  * @Date 2019/8/20 10:01
  * @Description TODD
  **/
+@EqualsAndHashCode(callSuper = true)
 @Data
 public class BasePlusEntity<T extends Model> extends Model implements Serializable {
     private static final long serialVersionUId = 1L;
