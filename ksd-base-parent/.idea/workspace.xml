@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6f8fe06-b783-4621-b9be-b407abe47036" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ksd-base-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ksd-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ksd-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ksd-system/src/main/java/com/pattren/ksdsystem/KsdSystemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ksd-system/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ksd-system/src/test/java/com/pattren/ksdsystem/KsdSystemApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\work_software\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbAlqvLvpsb6fK1fAvCfb4A9qR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.6034483" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pattren.ksdsystem.entity" />
+      <recent name="com.pattren.ksdsystem.config" />
+      <recent name="com.pattren.ksdsystem" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="KsdSystemApplication " type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ksd-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pattren.ksdsystem.KsdSystemApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.121212125" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Underforest\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f8fe06-b783-4621-b9be-b407abe47036" name="Default Changelist" comment="" />
+      <created>1575615074775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575615074775</updated>
+      <workItem from="1575615076147" duration="3046000" />
+      <workItem from="1575622168141" duration="800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575616138515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575616138515" />
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1575620267629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575620267629" />
+    <state x="719" y="207" key="FileChooserDialogImpl" timestamp="1575615632526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="207" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575615632526" />
+    <state width="1623" height="301" key="GridCell.Tab.0.bottom" timestamp="1575622889799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889799" />
+    <state width="1623" height="301" key="GridCell.Tab.0.center" timestamp="1575622889798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889798" />
+    <state width="1623" height="301" key="GridCell.Tab.0.left" timestamp="1575622889798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889798" />
+    <state width="1623" height="301" key="GridCell.Tab.0.right" timestamp="1575622889799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889799" />
+    <state width="1623" height="301" key="GridCell.Tab.1.bottom" timestamp="1575622889799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889799" />
+    <state width="1623" height="301" key="GridCell.Tab.1.center" timestamp="1575622889799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889799" />
+    <state width="1623" height="301" key="GridCell.Tab.1.left" timestamp="1575622889799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889799" />
+    <state width="1623" height="301" key="GridCell.Tab.1.right" timestamp="1575622889799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1623" height="301" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575622889799" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1575615557913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575615557913" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1575620367221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575620367221" />
+    <state x="334" y="214" key="new project wizard" timestamp="1575615912820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575615912820" />
+  </component>
+</project>
