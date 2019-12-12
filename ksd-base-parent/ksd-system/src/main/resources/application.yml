@@ -1,5 +1,7 @@
+#启动端口号
 server:
   port: 8099
+#数据库配置
 spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/authority_managerment?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false
@@ -11,6 +13,7 @@ spring:
       maxActive: 20
   jpa:
     open-in-view: false
+#mybatis-plus配置
 mybatis-plus:
   global-config:
     db-config:
@@ -20,3 +23,6 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: false
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#日志配置
+logging:
+  config: classpath:logback-spring.xml
