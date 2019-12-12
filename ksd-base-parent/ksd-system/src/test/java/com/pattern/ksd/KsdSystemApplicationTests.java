@@ -1,4 +1,4 @@
-package com.pattern.ksdSystem;
+package com.pattern.ksd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

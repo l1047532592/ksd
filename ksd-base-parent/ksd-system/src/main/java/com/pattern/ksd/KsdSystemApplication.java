@@ -1,4 +1,4 @@
-package com.pattern.ksdSystem;
+package com.pattern.ksd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

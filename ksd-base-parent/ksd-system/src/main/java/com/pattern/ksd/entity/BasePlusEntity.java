@@ -1,4 +1,4 @@
-package com.pattern.ksdSystem.entity;
+package com.pattern.ksd.entity;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import com.baomidou.mybatisplus.annotation.FieldFill;
@@ -21,7 +21,7 @@ import java.util.Date;
  **/
 @EqualsAndHashCode(callSuper = true)
 @Data
-public class BasePlusEntity<T extends Model> extends Model implements Serializable {
+public class BasePlusEntity extends Model implements Serializable {
     private static final long serialVersionUId = 1L;
 
     protected String id;

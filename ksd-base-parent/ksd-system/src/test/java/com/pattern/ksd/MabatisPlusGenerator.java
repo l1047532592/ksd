@@ -1,4 +1,4 @@
-package com.pattern.ksdSystem;
+package com.pattern.ksd;
 
 
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
@@ -25,7 +25,7 @@ public class MabatisPlusGenerator {
     //table前缀
     private static String prefix = "sx";
     //mapper 文件路径
-    private static String mapperPreFile = "com/pattern/demo/mapper";
+    private static String mapperPreFile = "com/pattern/ksdSystem/mapper";
     //service类的名称，默认会带I,所以自定义
     private static String serviceName = "XmlElementService";
 
@@ -86,12 +86,11 @@ public class MabatisPlusGenerator {
         // 自定义输出配置
         List<FileOutConfig> focList = new ArrayList<>();
         // 自定义配置会被优先输出
-        String finalProjectPath = projectPath;
         focList.add(new FileOutConfig(templatePath) {
             @Override
             public String outputFile(TableInfo tableInfo) {
                 // 自定义输出文件名 ， 如果你 Entity 设置了前后缀、此处注意 xml 的名称会跟着发生变化！！
-                return finalProjectPath + "/src/main/resources/" + mapperPreFile
+                return projectPath + "/src/main/resources/" + mapperPreFile
                         + "/" + tableInfo.getEntityName() + "Mapper" + StringPool.DOT_XML;
             }
         });

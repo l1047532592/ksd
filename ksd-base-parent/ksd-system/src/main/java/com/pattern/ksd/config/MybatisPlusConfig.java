@@ -1,4 +1,4 @@
-package com.pattern.ksdSystem.config;
+package com.pattern.ksd.config;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.mybatis.spring.annotation.MapperScan;

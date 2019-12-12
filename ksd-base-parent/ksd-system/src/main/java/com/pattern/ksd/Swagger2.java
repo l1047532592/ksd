@@ -1,4 +1,4 @@
-package com.pattern.ksdSystem;
+package com.pattern.ksd;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
